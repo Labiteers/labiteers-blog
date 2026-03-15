@@ -1,7 +1,7 @@
 ---
 title: "Launching Labiteers Blog!"
 date: 2026-03-15
-tags: ["Labiteers", "Posts", "Virtual Labs"]
+tags: ["Labiteers", "Posts", "Virtual Labs", "Cloud Labs"]
 draft: false
 ---
 
