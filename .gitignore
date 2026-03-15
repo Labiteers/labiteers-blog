@@ -1,2 +1,15 @@
-.hugo*
-hugo_*
+# Hugo generated files
+/public/
+/resources/_gen/
+
+# Lock file
+.hugo_build.lock
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# Node
+node_modules/
