@@ -1,0 +1,4 @@
+baseURL = 'https://blog.labiteers.com/'
+languageCode = 'en-us'
+title = 'Labiteers Blog'
+theme = 'PaperMod'
