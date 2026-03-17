@@ -2,3 +2,6 @@ baseURL = 'https://blog.labiteers.com/'
 languageCode = 'en-us'
 title = 'Labiteers Blog'
 theme = 'PaperMod'
+
+# Display the latest 10 articles on the homepage
+paginate = 10 
