@@ -1,1 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Labiteers Blog</title><link>https://blog.labiteers.com/</link><description>Recent content on Labiteers Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.labiteers.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Launching Labiteers Blog!</title><link>https://blog.labiteers.com/posts/first-post/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.labiteers.com/posts/first-post/</guid><description>&lt;p>Today we launch the blog of Labiteers, our SaaS platform that helps students spin up cloud labs instantly.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Labiteers Blog</title><link>https://blog.labiteers.com/</link><description>Recent content on Labiteers Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 18 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.labiteers.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Added support for Windows 11!</title><link>https://blog.labiteers.com/posts/windows-11-support/</link><pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.labiteers.com/posts/windows-11-support/</guid><description>&lt;p>&lt;img alt="Labiteers Logo" loading="lazy" src="../../static/images/logo.jpg">&lt;/p>
+&lt;p>We are excited to announce that we have added support for Windows 11!&lt;/p>
+&lt;p>To usitilise Windows 11 VMs in your labs, follow the instructions below:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>In your Microsoft Azure account, navigate to your &lt;em>&lt;strong>Azure subscription&lt;/strong>&lt;/em>, &lt;em>&lt;strong>Settings&lt;/strong>&lt;/em>, &lt;em>&lt;strong>Usage + quotas&lt;/strong>&lt;/em>.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Increase the limit of your region&amp;rsquo;s quota.&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>Done!&lt;/p>
+&lt;p>Once your quota request has been approved, you can go back to Labiteers and spin up Windows 11 VMs.&lt;/p></description></item><item><title>Launching Labiteers Blog!</title><link>https://blog.labiteers.com/posts/first-post/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><guid>https://blog.labiteers.com/posts/first-post/</guid><description>&lt;p>Today we launch the blog of Labiteers, our SaaS platform that helps students spin up cloud labs instantly.&lt;/p></description></item></channel></rss>
