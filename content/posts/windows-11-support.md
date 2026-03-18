@@ -1,9 +1,7 @@
 ---
 title: "Added support for Windows 11!"
-_build:
-  render: never
-  list: never
-  publishResources: false
+date: 2026-03-18
+draft: false
 ---
 
 ![Labiteers Logo](../../static/images/logo.jpg)
