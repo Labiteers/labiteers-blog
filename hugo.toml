@@ -4,4 +4,4 @@ title = 'Labiteers Blog'
 theme = 'PaperMod'
 
 # Display the latest 10 articles on the homepage
-paginate = 10 
+pagination.pagerSize = 10 
