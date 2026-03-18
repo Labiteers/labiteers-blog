@@ -4,8 +4,6 @@ date: 2026-03-18
 draft: false
 ---
 
-![Labiteers Logo](../../static/images/logo.jpg)
-
 We are excited to announce that we have added support for Windows 11!
 
 To usitilise Windows 11 VMs in your labs, follow the instructions below:
