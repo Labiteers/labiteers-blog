@@ -7,4 +7,4 @@ theme = 'PaperMod'
 pagination.pagerSize = 10 
 
 [params]
-  favicon = "favicon.ico"
+  favicon = "images/favicon.ico"
