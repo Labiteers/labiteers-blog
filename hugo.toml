@@ -6,5 +6,5 @@ theme = 'PaperMod'
 # Display the latest 10 articles on the homepage
 pagination.pagerSize = 10 
 
-[params]
+[params.assets]
   favicon = "images/favicon.ico"
